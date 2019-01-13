@@ -9,3 +9,14 @@ C:\Users\Conno\OneDrive\Desktop\backslash build\obj\Debug\netcoreapp2.1\backslas
 C:\Users\Conno\OneDrive\Desktop\backslash build\obj\Debug\netcoreapp2.1\backslash build.AssemblyInfo.cs
 C:\Users\Conno\OneDrive\Desktop\backslash build\obj\Debug\netcoreapp2.1\backslash build.dll
 C:\Users\Conno\OneDrive\Desktop\backslash build\obj\Debug\netcoreapp2.1\backslash build.pdb
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\bin\Debug\netcoreapp2.1\backslash build.deps.json
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\bin\Debug\netcoreapp2.1\backslash build.runtimeconfig.json
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\bin\Debug\netcoreapp2.1\backslash build.runtimeconfig.dev.json
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\bin\Debug\netcoreapp2.1\backslash build.dll
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\bin\Debug\netcoreapp2.1\backslash build.pdb
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\obj\Debug\netcoreapp2.1\backslash build.csprojAssemblyReference.cache
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\obj\Debug\netcoreapp2.1\backslash build.csproj.CoreCompileInputs.cache
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\obj\Debug\netcoreapp2.1\backslash build.AssemblyInfoInputs.cache
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\obj\Debug\netcoreapp2.1\backslash build.AssemblyInfo.cs
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\obj\Debug\netcoreapp2.1\backslash build.dll
+C:\Users\Conno\OneDrive\Desktop\test git\TicTacToeChallenge\obj\Debug\netcoreapp2.1\backslash build.pdb

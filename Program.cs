@@ -21,7 +21,7 @@ namespace backslash_build
         private static BoardState GetStateOfBoard(string board)
         {
 
-            board = board.ToLowerInvariant();                    //board to lower case to ensure consistency across program
+            board = board.ToLower();                    //board to lower case to ensure consistency across program
 
             if (!checkForErrors(board))                  //check for any errors
             {

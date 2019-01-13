@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Conno\\OneDrive\\Desktop\\backslash build\\backslash build.csproj",
+      "projectUniqueName": "C:\\Users\\Conno\\OneDrive\\Desktop\\test git\\TicTacToeChallenge\\backslash build.csproj",
       "projectName": "backslash build",
-      "projectPath": "C:\\Users\\Conno\\OneDrive\\Desktop\\backslash build\\backslash build.csproj",
+      "projectPath": "C:\\Users\\Conno\\OneDrive\\Desktop\\test git\\TicTacToeChallenge\\backslash build.csproj",
       "packagesPath": "C:\\Users\\Conno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Conno\\OneDrive\\Desktop\\backslash build\\obj\\",
+      "outputPath": "C:\\Users\\Conno\\OneDrive\\Desktop\\test git\\TicTacToeChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
